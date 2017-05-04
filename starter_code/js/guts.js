@@ -53,7 +53,8 @@ function logBase10 (x){
     return Math.log10(x);
 }
 
-
-function generateRandomNumber() {
-
+// 8. generateRandomNumber
+//    write a function named "generateRandomNumber" that takes in no parameters and returns a random number
+function generateRandomNumber(){
+    return Math.random();
 }
